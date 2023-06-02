@@ -4,4 +4,4 @@ _We are building open source privacy friendly IT Future._
 
 AsterJdm in `11` words __"Why not better?"__.
 
-AsterJdm has been founded be [@JdM](https://github.comm/judemont) __and be__ [@Asteroidus](https://github.com/AsteroidusTv)
+AsterJdm has been founded be [@JdM](https://github.com/judemont) __and be__ [@Asteroidus](https://github.com/AsteroidusTv)
