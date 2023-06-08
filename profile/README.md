@@ -1,4 +1,4 @@
-## Welcom to Asterjdm👋
+## Welcome to Asterjdm👋
 
 _We are building open source privacy friendly IT Future._
 
